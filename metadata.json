@@ -1,0 +1,7 @@
+{
+  "name": "Copy of My Dentist AI Clinic",
+  "description": "A modern, professional dental clinic website featuring an AI-powered chatbot and real-time voice assistant to help patients book appointments and answer dental queries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
